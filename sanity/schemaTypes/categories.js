@@ -1,5 +1,5 @@
 export const categories = {
-        title: "categories",
+        title: "Kategorier",
         name: "categories",
         type: "document",
         fields: [
