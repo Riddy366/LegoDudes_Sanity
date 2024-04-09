@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { fetchAllProducts } from "../../sanity/sercives/productServices";
+import { fetchAllProducts } from "../../sanity/services/productServices";
 import ProductCard from "./ProductCard";
 
 export default function Home({ setAmount, cart, setCart }) {
